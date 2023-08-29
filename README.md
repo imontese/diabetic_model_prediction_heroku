@@ -1,1 +1,0 @@
-# diabetic_model_prediction_heroku
